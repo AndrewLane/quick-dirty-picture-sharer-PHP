@@ -19,6 +19,4 @@ function getImagesInCurrentDirectory() {
 	sort($returnedData);
 	return $returnedData;
 }
-
-
 ?>
