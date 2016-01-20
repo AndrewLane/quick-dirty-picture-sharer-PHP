@@ -99,7 +99,6 @@ function preloadPreviews(arrayOfImages) {
 }
 
 </script>
-
 </head>
 <body>
 
